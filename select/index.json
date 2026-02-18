@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Skinnyman",
+  "base_artist": "Static-X",
+  "createdAt": "2026-02-18T14:32:27.585458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": false,
+      "path": "select/01_Skinnyman_Static-X.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static‐X",
+      "has_synced": true,
+      "path": "select/02_Skinnyman_Static‐X.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/03_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/04_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/05_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static‐X",
+      "has_synced": true,
+      "path": "select/06_Skinnyman_Static‐X.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/07_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/08_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static‐X",
+      "has_synced": true,
+      "path": "select/09_Skinnyman_Static‐X.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Long Awaited (feat. Lewis Parker & Skinnyman)",
+      "artist": "Mark B & Blade",
+      "has_synced": false,
+      "path": "select/10_The_Long_Awaited_(feat._Lewis_Parker_&_Skinnyman)_Mark_B_&_Blade.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static X",
+      "has_synced": true,
+      "path": "select/11_Skinnyman_Static_X.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static‐X",
+      "has_synced": true,
+      "path": "select/12_Skinnyman_Static‐X.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Skinnyman (Album Version)",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/13_Skinnyman_(Album_Version)_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hold On feat. DVS & Skinnyman",
+      "artist": "Foreign Beggars",
+      "has_synced": true,
+      "path": "select/14_Hold_On_feat._DVS_&_Skinnyman_Foreign_Beggars.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hold On feat. DVS, Skinnyman",
+      "artist": "Foreign Beggars",
+      "has_synced": true,
+      "path": "select/15_Hold_On_feat._DVS,_Skinnyman_Foreign_Beggars.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/16_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/17_Skinnyman_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Skinnyman (Album Version)",
+      "artist": "Static-X",
+      "has_synced": true,
+      "path": "select/18_Skinnyman_(Album_Version)_Static-X.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Hold On (Feat. Skinnyman)",
+      "artist": "Foreign Beggars",
+      "has_synced": true,
+      "path": "select/19_Hold_On_(Feat._Skinnyman)_Foreign_Beggars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Skinnyman",
+      "artist": "Static-X",
+      "has_synced": false,
+      "path": "select/pl_01_Skinnyman_Static-X.txt"
+    }
+  ]
+}
